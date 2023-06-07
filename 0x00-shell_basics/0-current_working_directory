@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd -P
+realpath 0-current_working_directory
