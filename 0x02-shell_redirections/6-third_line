@@ -1,0 +1,2 @@
+#!/bin/bash
+echo IFS= read -r line < <(tail -n +3 iacta | head -n 1)
